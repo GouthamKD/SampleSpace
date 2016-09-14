@@ -1,0 +1,9 @@
+This is Just for the purpose of sample Reposity Usage in the local Machine.
+
+Some of the important Git Commands
+
+$ git commit -m "Just testing"
+$ git log -2
+$ git branch
+$ git push -u origin master
+
